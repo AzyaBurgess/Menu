@@ -66,6 +66,7 @@ export default function Album() {
             </Typography>
             <Typography variant="h5" align="center" color="text.secondary" paragraph>
               The Best Soul Food In The City
+              
             </Typography>
             <Stack
               sx={{ pt: 4 }}
@@ -74,7 +75,7 @@ export default function Album() {
               justifyContent="center"
             >
               <Button variant="contained">More Options</Button>
-              <Button variant="outlined">Order</Button>
+              <Button variant="outlined">Place Order</Button>
             </Stack>
           </Container>
         </Box>
@@ -93,9 +94,10 @@ export default function Album() {
         <Typography gutterBottom variant="h5" component="div">
           Macoroni n Cheese
         </Typography>
+
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          $5.00 
+          "Nice Amount"
         </Typography>
       </CardContent>
       <CardActions>
@@ -117,8 +119,8 @@ export default function Album() {
           Fried Chicken
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+        $5.00
+        "3-4 chicken wings"
         </Typography>
       </CardContent>
       <CardActions>
@@ -140,8 +142,8 @@ export default function Album() {
           Fish
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          $2.00
+          "1-2 peices"
         </Typography>
       </CardContent>
       <CardActions>
@@ -164,8 +166,8 @@ export default function Album() {
           Corn Bread
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          $3.00
+          "1-2 peices"
         </Typography>
       </CardContent>
       <CardActions>
@@ -187,8 +189,8 @@ export default function Album() {
           Collard Greens
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          $5.00
+          "Nice Amount"
         </Typography>
       </CardContent>
       <CardActions>
@@ -211,8 +213,8 @@ export default function Album() {
           Sweet Potatoes
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+         $5.00
+         "Nice Amount"
         </Typography>
       </CardContent>
       <CardActions>
